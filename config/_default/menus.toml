@@ -2,7 +2,7 @@
 [[navbar]]
     identifier = "about"
     name = "About"
-    url = "/about/"
+    url = "/"
      weight = 1
 
 [[navbar]]
