@@ -1,0 +1,8 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'My New Hugo Project'
+theme = 'hugo-theme-monochrome'
+
+[params.author]
+name = 'Angie'
+email = 'angiel2@illinois.edu'
