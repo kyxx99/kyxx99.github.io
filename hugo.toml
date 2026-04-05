@@ -11,3 +11,20 @@ email = "angiel2@illinois.edu"
 
 [params]
 navbar_title = "[ænd͡ʒi liː]" #Default site title
+favicon = "/favicon.ico"
+
+[menu]
+    [[menu.main]]
+    name = "About"
+    url = "/"
+    weight = 1
+
+    [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 2
+
+    [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 3
