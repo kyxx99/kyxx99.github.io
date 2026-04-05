@@ -1,6 +1,6 @@
 ---
-title: "Home"
-draft: false
+type: 'balloon'
+balloon_resources: "/about"
+description: "Home"
 ---
-
-Welcome!!
+Welcome to my site!
