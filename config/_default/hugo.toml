@@ -9,6 +9,7 @@ enableEmoji = true
 name = "Angie"
 email = "angiel2@illinois.edu"
 
+
 [params]
 navbar_title = "[ænd͡ʒi liː]" #Default site title
 favicon = "/favicon.ico"
