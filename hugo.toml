@@ -1,6 +1,6 @@
 baseURL = 'https://kyxx99.github.io'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Angie Lee'
 theme = "hugo-theme-monochrome"
 enableEmoji = true
 
