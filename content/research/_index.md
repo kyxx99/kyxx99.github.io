@@ -2,10 +2,10 @@
 type: 'blank'
 ---
 
-## Research
+# Research
 
 ### Phonology 
 My research focuses mainly on phonology.
 
-## Phonetics 
+### Phonetics 
 I like phonetics too. 
