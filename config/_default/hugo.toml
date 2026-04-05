@@ -1,0 +1,14 @@
+baseURL = 'https://kyxx99.github.io'
+locale = 'en-us'
+title = 'Angie Lee'
+theme = "hugo-theme-monochrome"
+enableEmoji = true
+
+
+[params.author]
+name = "Angie"
+email = "angiel2@illinois.edu"
+
+[params]
+navbar_title = "[ænd͡ʒi liː]" #Default site title
+favicon = "/favicon.ico"
