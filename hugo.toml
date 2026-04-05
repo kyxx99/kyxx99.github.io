@@ -7,3 +7,6 @@ theme = "hugo-theme-monochrome"
 [params.author]
 name = "Angie"
 email = "angiel2@illinois.edu"
+
+[params]
+navbar_title = "Angie Lee" #Default site title
