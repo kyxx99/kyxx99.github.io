@@ -5,7 +5,7 @@ weight: 2
 
 + (*submitted*) Kim, H., Gurevich, N., **Lee, A.** (2026). Applying the FITI (Functional Importance to Intelligibility) framework to children's speech: Introducing KITI. Talk at the annual convention of the American Speech-Language-Hearing Association (ASHA), Indianapolis, IN, USA.
  
-+ (*submitted*) **Lee, A.** (2026). Optionality in Malay morphophonology using weighted logic. the Annaul Meeting on Phonology 2026 (AMP), College Park, MD, USA.
++ (*submitted*) **Lee, A.** (2026). Optionality in Malay morphophonology using weighted logic. the Annual Meeting on Phonology 2026 (AMP), College Park, MD, USA.
 
 + (*upcoming*) **Lee, A.** (2026). Blocking and licensing in Malay morphophonology. Talk at the International Symposium on Malay and Indonesian Linguistics 29 (ISMIL), Tampere, Finland.
 
