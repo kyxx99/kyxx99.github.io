@@ -5,5 +5,3 @@ balloon_resources: '/aboutballoon'
 description: "About me"
 zooming_js: false
 ---
-
-About me? page
