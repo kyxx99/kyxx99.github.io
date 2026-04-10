@@ -1,6 +1,6 @@
 ---
-title: 'Where'
-weight: 1
+title: 'Where?'
+weight: 2
 ---
 
-Champaign
+I grew up in Singapore and Malaysia. I'm currently based in Champaign, IL. I enjoy traveling, so every now and then you can find me spawning at new (and also old) places.
