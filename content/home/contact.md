@@ -3,4 +3,4 @@ title: 'Contact Me'
 weight: 3
 ---
 
-+ `angiel2[at]illinois[dot]edu`
++ <span style="font-family: monospace;">angiel2[at]illinois[dot]edu</span>
