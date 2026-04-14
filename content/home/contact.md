@@ -1,6 +1,6 @@
 ---
 title: 'Contact Me'
-weight: 2
+weight: 3
 ---
 
 + `angiel2[at]illinois[dot]edu`
