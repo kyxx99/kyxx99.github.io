@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Angie Lee</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Angie Lee</description>
+    <title>Homes on Angie Lee</title>
+    <link>http://localhost:1313/home/</link>
+    <description>Recent content in Homes on Angie Lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>angiel2@illinois.edu (Angie)</managingEditor>
-    <webMaster>angiel2@illinois.edu (Angie)</webMaster>
-    <lastBuildDate>Tue, 07 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>angiel2@illinois.edu (Angie)</webMaster><atom:link href="http://localhost:1313/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
       <link>http://localhost:1313/home/about-me/</link>
@@ -16,15 +15,6 @@
       <author>angiel2@illinois.edu (Angie)</author>
       <guid>http://localhost:1313/home/about-me/</guid>
       <description>&lt;p&gt;Hello! I&amp;rsquo;m Angie Lee. I&amp;rsquo;m a final-year undergraduate student at the &lt;a href=&#34;https://illinois.edu/&#34;&gt;University of Illinois Urbana-Champaign&lt;/a&gt;. My majors are {Linguistics} and {Speech and Hearing Science}. I&amp;rsquo;m currently advised by Prof. &lt;a href=&#34;https://www.scott-nelson.net/&#34;&gt;Scott Nelson&lt;/a&gt;. I will begin as a PhD student this Fall at the University of California San Diego&amp;rsquo;s &lt;a href=&#34;https://linguistics.ucsd.edu/&#34;&gt;Department of Linguistics&lt;/a&gt; where I will be advised by Prof. &lt;a href=&#34;https://sites.google.com/ucsd.edu/ebakovic/&#34;&gt;Eric Baković&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Where?</title>
-      <link>http://localhost:1313/aboutballoon/where/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>angiel2@illinois.edu (Angie)</author>
-      <guid>http://localhost:1313/aboutballoon/where/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m currently based in Champaign, IL, but I grew up in Singapore and Malaysia. I enjoy traveling, so every now and then you can find me spawning at new (and also old) places.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -53,15 +43,6 @@
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;code&gt;angiel2[at]illinois[dot]edu&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>Hello world!</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-      <author>angiel2@illinois.edu (Angie)</author>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;p&gt;Hello world&amp;hellip;!&lt;/p&gt;</description>
     </item>
     
   </channel>

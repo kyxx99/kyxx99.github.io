@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Angie Lee</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Angie Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>angiel2@illinois.edu (Angie)</managingEditor>
+    <webMaster>angiel2@illinois.edu (Angie)</webMaster>
+    <lastBuildDate>Tue, 07 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello world!</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <author>angiel2@illinois.edu (Angie)</author>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;p&gt;Hello world&amp;hellip;!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
