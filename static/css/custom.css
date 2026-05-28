@@ -1,17 +1,16 @@
-/* remove gray background from inline code */
+/* inline code: all themes */
 :not(pre)>code {
     background: transparent !important;
+    background-color: transparent !important;
     padding: 0 !important;
-    border: none !important;
-}
-
-/* optional: remove code block background too */
-pre {
-    background: transparent !important;
     border: none !important;
     box-shadow: none !important;
 }
 
-pre code {
+/* inline code: dark mode */
+[data-theme="dark"] :not(pre)>code {
     background: transparent !important;
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
 }
