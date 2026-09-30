@@ -3,4 +3,4 @@ title: 'Contact Me'
 weight: 3
 ---
 
-+ `angiel2[at]illinois[dot]edu`
++ `anl228[at]ucsd[dot]edu`
