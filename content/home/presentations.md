@@ -3,7 +3,7 @@ title: 'Presentations'
 weight: 2
 ---
 
-+(*accepted*) Kim, Heejin, Naomi Gurevich, and **Angie Lee**. 2026. "Applying the FITI (Functional Importance to Intelligibility) framework to children's speech: Introducint KITI." Presentation at the annual convention of the American Speech-Language-Hearing Association, Indianapolis, IN, USA.
++ (*accepted*) Kim, Heejin, Naomi Gurevich, and **Angie Lee**. 2026. "Applying the FITI (Functional Importance to Intelligibility) framework to children's speech: Introducint KITI." Presentation at the annual convention of the American Speech-Language-Hearing Association, Indianapolis, IN, USA.
 
 + **Lee, Angie**. 2026. "Blocking and licensing in Malay morphophonology." Talk at the 29th International Symposium on Malay and Indonesian Linguistics (ISMIL), Tampere, Finland.
 
